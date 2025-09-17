@@ -1,0 +1,16 @@
+/*For h1 heading*/
+h1{
+    font-size: 24px;
+    color: #38B2AC;
+}
+
+/*For h2 heading*/
+h2{
+    font-size: 21px;
+    color: #5a67d8;
+}
+
+/*For my personal summary paragraph */
+p{
+    font-size: 18px;
+}
